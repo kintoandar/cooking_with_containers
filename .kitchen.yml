@@ -1,0 +1,19 @@
+---
+driver:
+  name: docker
+  socket: tcp://coreos01:2375
+
+provisioner:
+  name: chef_solo
+
+platforms:
+  - name: centos-6.5-x86_64
+    driver_config:
+      dockerfile: ./Dockerfile
+      image: test-kitchen:latest
+      platform: centos
+
+suites:
+  - name: kitchen
+    run_list: 
+      - recipe[kitchen_sink::default]

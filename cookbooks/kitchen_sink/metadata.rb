@@ -1,0 +1,7 @@
+maintainer       'kintoandar'
+maintainer_email 'kintoandar@gmail.com'
+license          'MIT'
+name             'kitchen_sink'
+description      'Adds the sink to the kitchen'
+long_description 'Adds some missing stuff to the container'
+version          '0.0.0'
