@@ -1,7 +1,8 @@
-#### Cooking with Containers
+Cooking with Containers
+=================
+A wicked `Mac OS X + Virtualbox + Vagrant + CoreOS + Docker + Chef + Test-Kitchen` combo.
 
-This repository is related to my blog post about a `Mac OS X + Virtualbox + Vagrant + CoreOS + Docker + Chef + Test-Kitchen` combo.
+📝 Check out the [blogpost](http://blog.kintoandar.com/2014/11/cooking-with-containers.html) about it.
 
-You can read all about it here:
-
-http://blog.kintoandar.com/2014/11/cooking-with-containers.html
+# Credits
+Made with ♥️ by [kintoandar](https://blog.kintoandar.com/)
